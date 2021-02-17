@@ -1,3 +1,4 @@
 # Web-ban-hang
 Web bán hàng
-https://i.imgur.com/XTpWMXv.png
+
+<img src="https://i.imgur.com/XTpWMXv.png" alt="">
