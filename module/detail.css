@@ -1,0 +1,64 @@
+html {
+	font-family: 'Open Sans', sans-serif;
+}
+.item__img--image {
+	width: 400px;
+}
+.item {
+	display: flex;
+}
+.info {
+	width: 30%;
+	
+	
+}
+/* .item__title {
+} */
+.info_chitiet{
+width: 300px;
+}
+.thuonghieu__a {
+	border-right: 1px solid #000;
+	padding-right: 6px;
+}
+.gia__giasp {
+	margin-bottom: 0;
+	color: #f57224;
+}
+.gia__giacu{
+	text-decoration: line-through;
+}
+/* .gia__phantram {
+
+} */
+/* .nutb {
+	
+} */
+.nut {
+	padding: 20px;
+	border: 1px solid black;
+	width: 76px;
+	background-color: #f57224;
+	
+}
+.nut a{
+	color:black;
+	text-decoration: none;
+	
+}
+.nut:hover{
+	color: white;
+	background: rgb(252, 53, 53);
+	width: 76px;
+}
+
+
+/* .nut__gio {
+	color: #aaa;
+} */
+.deologin{
+	color: white;
+	background-color: red;
+	border: 1px solid #000;
+	box-shadow: 4px 5px 10px -2px rgba(0,0,0,0.54);
+}

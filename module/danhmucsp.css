@@ -1,0 +1,37 @@
+a {
+	text-decoration: none;
+}
+/* .dealhot h1{
+	background-color: red;
+}
+.sp {
+	color:white;
+  background-color: rgb(0, 81, 128);
+}
+.laptop img{
+	width: 200px;
+	height: 200px;
+} */
+/* .dealhot img {
+	width: 200px;
+	height: 200px;
+} */
+
+.dssanpham {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	grid-template-rows: 3fr;
+	background-color: rgb(0, 81, 128);
+}
+.sanpham {
+	margin: 0 auto;
+	
+}
+
+.sanpham a h3 {
+	color:#fff;
+	font-size: 25px;
+}
+.sanpham a h4 {
+	font-size: 20px;
+}

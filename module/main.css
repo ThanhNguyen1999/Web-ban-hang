@@ -1,0 +1,56 @@
+a {
+	text-decoration: none;
+}
+/* .dealhot{
+color:white;
+background-color: rgb(252, 53, 53);
+}
+.pcbanchay{
+	color:white;
+	background-color: rgb(252, 53, 53);
+
+}
+.laptopS{
+	color:white;
+	background-color: rgb(252, 53, 53);
+	
+} */
+.dealhot h1{
+	background-color: red;
+}
+.sp {
+	color:white;
+  background-color: rgb(0, 81, 128);
+}
+.laptop img{
+	width: 200px;
+	height: 200px;
+}
+.dealhot img {
+	width: 200px;
+	height: 200px;
+}
+
+.dssanpham {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	grid-template-rows: 1fr;
+}
+.sanpham {
+	margin: 0 auto;
+	
+}
+
+.sanpham a h3 {
+	color: white;
+	font-size: 25px;
+}
+.sanpham a h4 {
+	font-size: 20px;
+}
+/* .tilte{
+	color:white;
+	background-color: rgb(252, 53, 53);
+} */
+
+

@@ -1,0 +1,12 @@
+.dong{
+	display: table-caption;
+}
+
+.alltable{
+display: flex;
+padding-bottom: 5rem;
+}
+.tableleft{
+	padding-left: 100px;
+    padding-right: 300px;
+}

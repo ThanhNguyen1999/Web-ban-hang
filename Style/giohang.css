@@ -1,0 +1,46 @@
+.item_img {
+	width: 200px;
+}
+td {
+	text-align: center; 
+	vertical-align: middle;
+	font-size: 20px;
+}
+.tongtien{
+	display: flex;
+	padding: 20px;
+}
+
+h1{
+	margin: 0 auto;
+}
+.tille-card{
+	text-align: center; 
+	background-color: #0084FF;
+}
+th{
+	font-size: 20px;
+}
+table{
+	padding: 50px;
+	
+}
+.thanhtoan a{
+	text-align: center;
+	text-decoration: none;
+	padding: 50px;
+	border-radius: 1px ;
+	
+}
+.thanhtoan h2{
+	border: 1px solid black;
+	width: 140px;
+	margin: 0 auto;
+	background-color: #0084FF;
+	color: black;
+}
+.thanhtoan h2:hover{
+	color: white;
+	background-color: rgb(252, 53, 53);
+
+}

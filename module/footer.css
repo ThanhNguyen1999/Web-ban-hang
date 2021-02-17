@@ -1,0 +1,16 @@
+footer {
+	background-color: black;
+	/* margin: 0 auto 0 0; */
+}
+footer h1 {
+	color:red;
+	/* margin: 0 0 0 40% ; */
+	text-align: center;
+}
+footer h3{
+	color:red
+}
+/* .info {
+	padding-right: 100vw;
+	border-bottom: 1px solid white;
+} */

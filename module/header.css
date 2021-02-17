@@ -1,0 +1,96 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: inherit;
+	font-weight: normal;
+}
+.header {
+	background: url("./../img/49W.png") center center no-repeat;
+	width: 100vw;
+	height: 150px;
+	background-size: cover;
+
+}
+.header-menu {
+	display: flex;
+	justify-content: space-between;
+}
+.wrapper {
+	display: flex;
+}
+.btn-header {
+	text-decoration: none;
+	display: inline-block;
+	padding: 7px;
+	border: 1px solid #505050;
+	border-radius: 4px;
+	color: #505050;
+}
+
+.btn-header:hover {
+	color: white;
+	background-color: rgb(252, 53, 53);
+}
+.laptop-gaming ul{
+	list-style: none;
+}
+.laptop {
+	display: flex;
+}
+.minidm {
+	display: none;
+}
+.danhmuc:hover .minidm {
+	display: block;
+	
+}
+/* .laptop-gaming {
+	display: none;
+	
+}
+.laptop:hover .laptop-gaming {
+	display: block;
+
+} */
+
+.danhmuc h3:hover {
+	color: white;
+	background-color: rgb(252, 53, 53);
+
+}
+.danhmuc h3 {
+	border: 1px solid #000;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+.danhmuc span:hover {
+	color: white;
+	background-color: rgb(252, 53, 53);
+
+}
+.laptop span {
+	border: none;
+}
+
+.PCG span {
+	border:none;
+}
+.sphot span {
+	border: none;
+}
+.giohang img{
+width: 40px;
+}
+.dangnhap h2{
+	border: 1px solid black;
+	color: #000;
+	padding:5px;
+}
+.dangnhap h2:hover{
+	color: white;
+	background-color: rgb(252, 53, 53);
+}
+.iconsadmin{
+width: 40px;
+}

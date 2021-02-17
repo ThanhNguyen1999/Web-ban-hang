@@ -1,0 +1,42 @@
+.container {
+	display: flex;
+}
+.data {
+	flex: 1;
+}
+
+
+
+
+.tensanpham {
+	text-align: center;
+}
+.tien{
+	text-align: center;
+}
+.anhmota{
+	text-align: center;
+}
+.xoa{
+	text-align: center;
+}
+.topname{
+	text-decoration: none;
+	font-size: 20px;
+}
+
+ul span {
+	display: inline-block;
+	font-size: 18px;
+}
+.addsanpham{
+	text-decoration: none;
+	border: 1px solid black;
+	color: black;
+	padding: 2px;
+}
+.addsanpham:hover{
+color: white;
+background-color: #0084FF;
+
+}
